@@ -7,5 +7,8 @@
 ![Screenshot (11)](https://user-images.githubusercontent.com/72100598/99564235-ca897400-298f-11eb-9368-e41e92a36869.png)
 # Study App ITP-FA-2020
 ### Description: My Study App for the class.
+![Screenshot (12)](https://user-images.githubusercontent.com/72100598/99564525-310e9200-2990-11eb-9fe5-f588d8034229.png)
 # Trivia Game ITP-FA-2020
 Description: My trivia game for ITP.
+![Screenshot (12)](https://user-images.githubusercontent.com/72100598/99564525-310e9200-2990-11eb-9fe5-f588d8034229.png)
+Same as study app, triva game ended up becoming erased and made it updated in study app.
