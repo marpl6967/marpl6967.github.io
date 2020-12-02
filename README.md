@@ -18,3 +18,4 @@ Same as study app, triva game ended up becoming erased and made it updated in st
 # Trivia Game GUI
 ### Description: My Trivia Game Made Into A GUI App
 ![Screenshot (15)](https://user-images.githubusercontent.com/72100598/100814586-9e4a0a80-3407-11eb-8ba3-0932d00d2b35.png)
+My Fav One
